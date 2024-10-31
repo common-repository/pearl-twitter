@@ -1,0 +1,27 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.tweets {
+
+}
+
+.tweets .tweet {
+    margin-bottom: 15px;
+    list-style: none;
+}
+
+.tweet .tweet-thumb {
+    float: left;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.tweet .tweet-text.avatar_yes {
+    margin-left: 56px;
+}
+
+.tweet .tweet-time {
+    font-style: italic;
+}
